@@ -5,11 +5,9 @@ An R data package containing all out-bound flights from Arizona airports in 2024
 
 - Phoenix Sky Harbor International Airport (PHX)
 - Tucson International Airport (TUS)
-- Phoenix-Mesa Gateway Airport (AZA)
+- Phoenix-Mesa Gateway Airport (AZA) (Does not include weather at this airport)
 - Flagstaff Pulliam Airport (FLG)
-- Yuma International Airport (YUM)
 - Prescott Regional Airport (PRC)
-- Page Municipal Airport (PGA)
 
 This package was created using the 
 [`anyflights`](https://github.com/simonpcouch/anyflights) R package. 
