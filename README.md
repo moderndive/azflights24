@@ -1,4 +1,4 @@
-# nycflights23
+# azflights24
 
 An R data package containing all out-bound flights from Arizona airports in 2024
 + useful metadata. It contains information about the following airports:
