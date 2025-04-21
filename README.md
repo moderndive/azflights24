@@ -1,7 +1,7 @@
 # azflights24
 
 An R data package containing all out-bound flights from Arizona airports in 2024
-+ useful metadata. It contains information about the following airports:
+with useful metadata. It contains information about the following airports:
 
 - Phoenix Sky Harbor International Airport (PHX)
 - Tucson International Airport (TUS)
